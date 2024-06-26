@@ -1,4 +1,4 @@
-# java-basico
+# basicjava
 
-Repositorio pra guardar o conteudo de java basico </br>
-Alterando o conteudo de um arquivo de forma local
+repository to store the content of java  </br>
+(changing localy)
