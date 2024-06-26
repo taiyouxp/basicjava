@@ -1,4 +1,4 @@
-package edu.taiyo.secweek;
+package edu.taiyo.otherstuff;
 public class SchoolReport {
     public static void main(String[] args) {
         int finalMedia = 6;

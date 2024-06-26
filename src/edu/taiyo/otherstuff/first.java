@@ -1,4 +1,4 @@
-package edu.taiyo.firstweek;
+package edu.taiyo.otherstuff;
 
 public class first {
     public static void main (String [] args) {
